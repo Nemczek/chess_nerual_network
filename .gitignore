@@ -1,0 +1,3 @@
+*.txt
+*.pgn
+__pycache__/
